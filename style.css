@@ -38,15 +38,7 @@ padding-left: 60px;
 padding-right: 60px;
 
 }
-screen width < 300px
-@media(max-width:300px){
-
+@media(max-width:900px){
+#grid{
+  display: block;
   }
-  div{
-    align:center;
-  }
-  h2
-  {font-size: 20px;}
-
-
-}
