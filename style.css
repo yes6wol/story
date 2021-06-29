@@ -12,7 +12,7 @@ body{
   background-color: #FFF8DC;
 }
 h3{
-color:#cac0ac;
+color:#b9b09c;
 font-style: italic;
 font-weight: normal;
 font-size: 20px;
@@ -22,19 +22,19 @@ text-align: center;
 }
 p{
 font-size: 18px;
-padding: 70px;
-color:green;
-font-size: 20px;
+text-align: center;
+color:;
 }
 ul{
 text-align: right;
 display:inline;
 }
 a{
-text-align: left;
+text-align: center;
 text-decoration:none;
 padding-left: 60px;
 padding-right: 60px;
+display:block;
 
 }
 @media(max-width:1000px){
