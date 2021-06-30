@@ -18,7 +18,11 @@ font-weight: normal;
 font-size: 20px;
 font-family: inherit;
 text-align: center;
-
+h4{
+  color: #a29a7f;
+  text-align: center;
+  font-style: italic;
+  font-weight: lighter;
 }
 p{
 font-size: 18px;
