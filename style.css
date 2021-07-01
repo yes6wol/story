@@ -1,28 +1,40 @@
 #grid{
-display:flex;
+display:grid;
+grid-template-columns: 1100px 1fr;
 padding-top:20px;
 padding-right:30px;
+align-items: center;
 }
 #article{
 border-left: 3px solid green;
   padding-left:100px;
   font-size: 55px;
 }
+#di{
+  text-align: center;
+  color:#f7c5d3;
+  margin: 140px;
+  font-size: 20px
+}
 body{
   background-color: #FFF8DC;
 }
 h3{
-color:#b7b2a3;
+color: #b7b2a3;
+text-align: center;
 font-style: italic;
-font-weight: normal;
+font-weight: lighter;
 font-size: 20px;
 font-family: inherit;
-text-align: center;
+}
 h4{
-  color: #a29a7f;
   text-align: center;
   font-style: italic;
   font-weight: lighter;
+
+}
+h6{
+  text-align: center;
 }
 p{
 font-size: 18px;
