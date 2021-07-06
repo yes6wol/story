@@ -1,6 +1,4 @@
-#design{
-  margin: 120px;
-}
+
 #grid{
   display: grid;
   grid-template-columns: 200px 1fr;
@@ -15,6 +13,8 @@ border-left: 3px solid green;
 }
 body{
   background-color: #FFF8DC;
+  display: block;
+
 }
 h3{
 color: #BC8484;
