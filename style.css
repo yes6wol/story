@@ -1,8 +1,7 @@
 
 #grid{
   display:inline-block;
-  grid-template-columns: 200px 1fr;
-  align-self: center;
+ text-align: center;
 
 }
 
