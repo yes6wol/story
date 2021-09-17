@@ -12,9 +12,10 @@ border-left: 3px solid green;
   font-size: 55px;
 }
 body{
-  background-color: ;
-        background: url('lk.png')  center/cover;
-
+  height: 100vh;
+  background-image: url('lk.png');
+  background-repeat : no-repeat;
+  background-size : cover;
   display: block;
 
 }
