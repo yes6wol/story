@@ -1,7 +1,9 @@
 
 #grid{
-  display:inline-block;
- align-self: center;
+ display:grid;
+  grid-template-columns: 500px 1fr ;
+  padding-left:200px;
+  padding-right:30px;
 
 }
 
