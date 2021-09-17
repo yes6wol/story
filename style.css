@@ -45,13 +45,6 @@ ul{
 text-align: right;
 display:inline;
 }
-a{
-text-align: left;
-text-decoration: none;
-border: 100px;
-display:block;
-
-}
 @media(max-width:1000px){
   #grid{
   display: block;
